@@ -10,3 +10,6 @@ def encrypt(plaintext,key):
             shifted_char = chr(ord(shifted_char) + 65)
         ciphertext = ciphertext + shifted_char
     return ciphertext
+
+    print('I am Labiba')
+    
